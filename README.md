@@ -22,7 +22,7 @@ A US-based logistics organization was facing operational challenges across multi
 - Supplier performance
 - Executive KPI reporting
 
-The organization required interactive Power BI dashboards capable of supporting operational teams and executive management with data-driven decision making. :contentReference[oaicite:2]{index=2}
+The organization required interactive Power BI dashboards capable of supporting operational teams and executive management with data-driven decision making.
 
 ---
 
@@ -57,7 +57,7 @@ The database includes information related to:
 - Suppliers
 - Product Categories
 
-The dashboards were developed by connecting Power BI directly to the PostgreSQL database. :contentReference[oaicite:3]{index=3}
+The dashboards were developed by connecting Power BI directly to the PostgreSQL database.
 
 ---
 
@@ -172,10 +172,8 @@ The dashboards include analysis of:
 - Fill Rate
 - Inventory Discrepancies
 - Validation Issues
-- Task Productivity
 - Supplier Contribution
 - Warehouse Ranking
-- Inventory Health
 - Operational Risk Indicators
 
 ---
