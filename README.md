@@ -161,23 +161,6 @@ Key Deliverables
 
 ---
 
-# 📊 Key KPIs
-
-The dashboards include analysis of:
-
-- Total Inventory Value
-- Inventory Units
-- Warehouse Performance
-- Inventory Turnover
-- Fill Rate
-- Inventory Discrepancies
-- Validation Issues
-- Supplier Contribution
-- Warehouse Ranking
-- Operational Risk Indicators
-
----
-
 # 📁 Repository Structure
 
 ```text
@@ -220,24 +203,9 @@ Logistics-Warehouse-Performance-Dashboard
 
 The dashboards were developed based on four corporate business requirement documents.
 
-Each phase introduced additional reporting requirements, analytical questions, KPI expectations and business scenarios that were implemented through Power BI dashboards. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+Each phase introduced additional reporting requirements, analytical questions, KPI expectations and business scenarios that were implemented through Power BI dashboards.
 
 ---
-
-# 💼 Business Value
-
-The dashboards help organisations:
-
-- Monitor warehouse performance
-- Improve inventory visibility
-- Identify operational bottlenecks
-- Reduce inventory discrepancies
-- Improve validation processes
-- Optimise warehouse productivity
-- Support executive-level decision making
-
----
-
 # 🎯 Learning Outcomes
 
 This project demonstrates practical experience in:
